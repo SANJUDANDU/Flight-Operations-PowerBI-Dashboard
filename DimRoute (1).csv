@@ -1,0 +1,13 @@
+RouteID,Origin,OriginCountry,Destination,DestinationCountry
+1,Mumbai,India,Delhi,India
+2,Delhi,India,Bangalore,India
+3,Mumbai,India,Dubai,UAE
+4,Delhi,India,London,UK
+5,Bangalore,India,Singapore,Singapore
+6,Mumbai,India,Doha,Qatar
+7,Chennai,India,Colombo,Sri Lanka
+8,Delhi,India,New York,USA
+9,Hyderabad,India,Dubai,UAE
+10,Mumbai,India,Bangkok,Thailand
+11,Kolkata,India,Singapore,Singapore
+12,Delhi,India,Sydney,Australia
